@@ -1,0 +1,29 @@
+{
+  "environment": {
+    "numpy": "1.26.4",
+    "pandas": "2.1.4",
+    "scipy": "1.11.4",
+    "scikit-learn": "1.8.0",
+    "xgboost": "2.1.2",
+    "pyproj": "3.7.2",
+    "shapely": "2.1.2",
+    "numba": "0.59.0"
+  },
+  "housing_data": {
+    "n": 2790,
+    "labeled": 2366,
+    "missing": 424,
+    "inconsistent_single": 121,
+    "avg_outside_minmax": 0,
+    "raw_poi": 717461,
+    "deduplicated_poi": 717461,
+    "duplicate_poi_removed": 0,
+    "metro_station_names": 169
+  },
+  "metro_alignment": {
+    "n": 167,
+    "median_m": 20.536205440244135,
+    "p90_m": 71.58646088649712,
+    "max_m": 182.4514052657415
+  }
+}

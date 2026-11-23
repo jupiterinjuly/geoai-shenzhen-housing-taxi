@@ -1,0 +1,5 @@
+﻿file,n,maximum_additivity_residual
+房价TreeSHAP_折外明细.csv,4732,0.0944061279296875
+坐标增强XGBoost_TreeSHAP明细.csv,4732,0.0791999999928521
+设施模型中排名第一的GWR_SHAP明细.csv,4732,4.3655745685100555e-11
+调深度XGBoost_TreeSHAP折外明细.csv,4732,0.07893000000331085

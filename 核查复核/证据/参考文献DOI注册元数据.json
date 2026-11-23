@@ -1,0 +1,247 @@
+[
+  {
+    "doi": "10.1111/ecog.02881",
+    "title": [
+      "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure"
+    ],
+    "authors": [
+      "Roberts",
+      "Bahn",
+      "Ciuti",
+      "Boyce",
+      "Elith",
+      "Guillera‐Arroita",
+      "Hauenstein",
+      "Lahoz‐Monfort",
+      "Schröder",
+      "Thuiller",
+      "Warton",
+      "Wintle",
+      "Hartig",
+      "Dormann"
+    ],
+    "journal": [
+      "Ecography"
+    ],
+    "volume": "40",
+    "issue": "8",
+    "page": "913-929",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          3
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1111/ecog.02881"
+  },
+  {
+    "doi": "10.1145/2939672.2939785",
+    "title": [
+      "XGBoost"
+    ],
+    "authors": [
+      "Chen",
+      "Guestrin"
+    ],
+    "journal": [
+      "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+    ],
+    "volume": null,
+    "issue": null,
+    "page": "785-794",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          13
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1145/2939672.2939785"
+  },
+  {
+    "doi": "10.1111/j.1538-4632.1996.tb00936.x",
+    "title": [
+      "Geographically Weighted Regression: A Method for Exploring Spatial Nonstationarity"
+    ],
+    "authors": [
+      "Brunsdon",
+      "Fotheringham",
+      "Charlton"
+    ],
+    "journal": [
+      "Geographical Analysis"
+    ],
+    "volume": "28",
+    "issue": "4",
+    "page": "281-298",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          1996,
+          10
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1111/j.1538-4632.1996.tb00936.x"
+  },
+  {
+    "doi": "10.1038/s42256-019-0138-9",
+    "title": [
+      "From local explanations to global understanding with explainable AI for trees"
+    ],
+    "authors": [
+      "Lundberg",
+      "Erion",
+      "Chen",
+      "DeGrave",
+      "Prutkin",
+      "Nair",
+      "Katz",
+      "Himmelfarb",
+      "Bansal",
+      "Lee"
+    ],
+    "journal": [
+      "Nature Machine Intelligence"
+    ],
+    "volume": "2",
+    "issue": "1",
+    "page": "56-67",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          17
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1038/s42256-019-0138-9"
+  },
+  {
+    "doi": "10.1111/gean.12316",
+    "title": [
+      "A Route Map for Successful Applications of Geographically Weighted Regression"
+    ],
+    "authors": [
+      "Comber",
+      "Brunsdon",
+      "Charlton",
+      "Dong",
+      "Harris",
+      "Lu",
+      "Lü",
+      "Murakami",
+      "Nakaya",
+      "Wang",
+      "Harris"
+    ],
+    "journal": [
+      "Geographical Analysis"
+    ],
+    "volume": "55",
+    "issue": "1",
+    "page": "155-178",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          9
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1111/gean.12316"
+  },
+  {
+    "doi": "10.1145/2743025",
+    "title": [
+      "Trajectory Data Mining"
+    ],
+    "authors": [
+      "Zheng"
+    ],
+    "journal": [
+      "ACM Transactions on Intelligent Systems and Technology"
+    ],
+    "volume": "6",
+    "issue": "3",
+    "page": "1-41",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          12
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1145/2743025"
+  },
+  {
+    "doi": "10.1145/1526709.1526816",
+    "title": [
+      "Mining interesting locations and travel sequences from GPS trajectories"
+    ],
+    "authors": [
+      "Zheng",
+      "Zhang",
+      "Xie",
+      "Ma"
+    ],
+    "journal": [
+      "Proceedings of the 18th international conference on World wide web"
+    ],
+    "volume": null,
+    "issue": null,
+    "page": "791-800",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          4,
+          20
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1145/1526709.1526816"
+  },
+  {
+    "doi": "10.1068/a231025",
+    "title": [
+      "The Modifiable Areal Unit Problem in Multivariate Statistical Analysis"
+    ],
+    "authors": [
+      "Fotheringham",
+      "Wong"
+    ],
+    "journal": [
+      "Environment and Planning A: Economy and Space"
+    ],
+    "volume": "23",
+    "issue": "7",
+    "page": "1025-1044",
+    "article_number": null,
+    "published": {
+      "date-parts": [
+        [
+          1991,
+          7
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1068/a231025"
+  }
+]
