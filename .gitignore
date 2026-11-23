@@ -1,0 +1,12 @@
+# Local raw data and detailed generated records
+data/raw/*
+!data/raw/.gitkeep
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+local_runs/
+*.docx
+*.pdf
